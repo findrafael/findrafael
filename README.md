@@ -1,11 +1,9 @@
 <div align="left">
   
-## 🤗 Olá, eu sou o Rafa. <br>
+## Olá, eu sou o Rafa. <br>
 - 📚 Graduando em Sistemas de Informação
 - 🎶 Apaixonado por música Pop
-- 👨‍💻 UX/UI
-- 😻 Pai de gato
-
+- 👨‍💻 UI/UX
 
 </div>
   
