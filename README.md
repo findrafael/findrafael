@@ -2,8 +2,7 @@
   
 ## Olá, eu sou o Rafa. <br>
 - 📚 Graduando em Sistemas de Informação
-- 🎶 Apaixonado por música Pop
-- 👨‍💻 UI/UX
+- 🎶 Apaixonado por música pop
 
 </div>
   
