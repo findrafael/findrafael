@@ -1,11 +1,13 @@
 <div align="left">
   
-## Olá, eu sou o Rafa. <br>
-- 📚 Graduando em Sistemas de Informação
-- 🎶 Apaixonado por música pop
+# Prazer, eu sou o Rafa! 😁 <br>
+- 📚 Graduando em Sistemas de Informação.
+- 👨🏻‍💻 Quality Assurance.
+- 🎶 Apaixonado por música pop e gatos.
 
 </div>
   
+ ## Confere um resumo do meu GitHub ai abaixo:
 <div align="left">
   <a href="https://github.com/findrafael">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=findrafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
