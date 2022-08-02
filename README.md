@@ -11,8 +11,8 @@ Vamos juntos fazer do mundo um lugar melhor! 🐱‍👤
  ## Confere um resumo do meu GitHub ai abaixo:
 <div align="center">
   <a href="https://github.com/findrafael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=findrafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=findrafael&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=findrafael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=findrafael&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   
